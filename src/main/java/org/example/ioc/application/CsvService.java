@@ -1,6 +1,6 @@
 package org.example.ioc.application;
 
-import org.example.ioc.utils.container.annotations.Component;
+import org.example.ioc.library.container.annotations.Component;
 
 import java.util.Map;
 

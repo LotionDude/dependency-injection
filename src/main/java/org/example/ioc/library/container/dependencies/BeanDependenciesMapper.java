@@ -1,12 +1,12 @@
-package org.example.ioc.utils.container.dependencies;
+package org.example.ioc.library.container.dependencies;
 
 import com.google.common.collect.ImmutableMap;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import org.example.ioc.utils.container.annotations.Inject;
-import org.example.ioc.utils.container.exceptions.ContainerInjectException;
-import org.example.ioc.utils.ClassUtils;
+import org.example.ioc.library.container.annotations.Inject;
+import org.example.ioc.library.container.exceptions.ContainerInjectException;
+import org.example.ioc.library.utils.ClassUtils;
 
 import java.lang.reflect.Constructor;
 import java.util.HashMap;

@@ -1,10 +1,10 @@
-package org.example.ioc.utils.container;
+package org.example.ioc.library.container;
 
 import com.google.common.collect.ImmutableMap;
 import lombok.RequiredArgsConstructor;
-import org.example.ioc.utils.container.dependencies.BeanDependencies;
-import org.example.ioc.utils.container.dependencies.BeanDependenciesMapper;
-import org.example.ioc.utils.container.exceptions.BeanCreationException;
+import org.example.ioc.library.container.dependencies.BeanDependencies;
+import org.example.ioc.library.container.dependencies.BeanDependenciesMapper;
+import org.example.ioc.library.container.exceptions.BeanCreationException;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

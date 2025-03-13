@@ -1,10 +1,10 @@
-package org.example.ioc.utils.container;
+package org.example.ioc.library.container;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import org.example.ioc.utils.container.annotations.Component;
-import org.example.ioc.utils.container.dependencies.BeanDependenciesMapper;
-import org.example.ioc.utils.ClassUtils;
+import org.example.ioc.library.container.annotations.Component;
+import org.example.ioc.library.container.dependencies.BeanDependenciesMapper;
+import org.example.ioc.library.utils.ClassUtils;
 
 import java.util.Set;
 

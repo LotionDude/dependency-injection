@@ -1,4 +1,4 @@
-package org.example.ioc.utils.container.exceptions;
+package org.example.ioc.library.container.exceptions;
 
 public class BeanCreationException extends RuntimeException {
     public BeanCreationException(String msg, Throwable throwable) {

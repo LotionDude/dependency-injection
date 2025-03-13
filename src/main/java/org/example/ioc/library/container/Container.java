@@ -1,4 +1,4 @@
-package org.example.ioc.utils.container;
+package org.example.ioc.library.container;
 
 import lombok.RequiredArgsConstructor;
 

@@ -1,4 +1,4 @@
-package org.example.ioc.utils;
+package org.example.ioc.library.utils;
 
 import com.google.common.collect.ImmutableSet;
 import org.reflections.Reflections;

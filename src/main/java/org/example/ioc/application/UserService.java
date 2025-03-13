@@ -2,8 +2,8 @@ package org.example.ioc.application;
 
 import com.google.common.collect.Maps;
 import lombok.RequiredArgsConstructor;
-import org.example.ioc.utils.container.annotations.Component;
-import org.example.ioc.utils.container.annotations.Inject;
+import org.example.ioc.library.container.annotations.Component;
+import org.example.ioc.library.container.annotations.Inject;
 
 import java.util.Map;
 

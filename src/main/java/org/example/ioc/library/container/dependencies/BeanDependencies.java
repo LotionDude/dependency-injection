@@ -1,4 +1,4 @@
-package org.example.ioc.utils.container.dependencies;
+package org.example.ioc.library.container.dependencies;
 
 import lombok.Getter;
 
